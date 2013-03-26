@@ -88,17 +88,9 @@ public class SearchMachine
 			}
 		}
 	}
-	public void advancedSearch()
-	{
-		for(l=0; files[l]="";l++)
-		{
-			if(flag2==1)
-			{
-				f3 =
+	
 
-
-
-
+	//yet to search the folders inside the drives..
 
 
 
